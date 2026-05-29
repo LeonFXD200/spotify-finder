@@ -1,4 +1,4 @@
-# 🎵 Spotify Digger
+## 🎵 Spotify Digger
 
 > Find music the algorithm hides. Spotify pushes popular. This digs deeper.
 
